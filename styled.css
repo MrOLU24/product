@@ -1,0 +1,43 @@
+body{
+    background-color: #A7A8CD;
+}
+.image-container{
+    position: relative;
+    top: 55px;
+    left: 25%;
+}
+.watch{
+    width: 60%;
+    height: 300px;
+    border-radius: 10px;
+    position: absolute;
+}
+.label{
+    position: absolute;
+    background-color: #CDE4DD;
+    width: 18%;
+    height: 40px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+   top: 15px;
+   left: -10px;
+   border-radius: 0px 30px 30px 0px;
+}
+.wrapper{
+    position: absolute;
+    background-color: white;
+    width: 60%;
+    height: 150px;
+    top: 280px;
+}
+h1, p{
+    padding-left: 20px;
+}
+#edit{
+    font-weight: lighter;
+    font-size: large;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
